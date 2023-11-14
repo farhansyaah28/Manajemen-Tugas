@@ -12,6 +12,6 @@ class Employee extends Task {
 
     @Override
     public void performTask() {
-        System.out.println("Karyawan " + employeeName + " mengerjakan tugas: " + getTaskName())
+        System.out.println("Karyawan " + employeeName + " mengerjakan tugas: " + getTaskName());
     }
 }
