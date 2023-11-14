@@ -1,7 +1,10 @@
 # KELOMPOK 19
  
 Biodata kelompok : 
+Anggota 1:
+- Muhammad Aufa Zaikra
+- 2208107010070
 
-Anggota 1:                               Anggota 2:
-Muhammad Aufa Zaikra                     T. Farhan Syah
-2208107010070                            2208107010090     
+Anggota 2:
+- T. Farhan Syah
+- 2208107010090
