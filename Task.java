@@ -15,4 +15,8 @@ abstract class Task {
     public int getTaskId() {
         return taskId;
     }
+
+    public void performTask() {
+        System.out.println("Melakukan tugas: " + taskName);
+    }
 }
