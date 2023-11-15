@@ -1,8 +1,7 @@
 import java.util.ArrayList;
-import java.util.List;
 
-public class TaskManager {
-    private List<Task> tasks;
+class TaskManager {
+    private ArrayList<Task> tasks;
 
     public TaskManager() {
         tasks = new ArrayList<>();
@@ -10,10 +9,6 @@ public class TaskManager {
 
     public void addTask(Task task) {
         tasks.add(task);
-    }
-
-    public List<Task> getTasks() {
-        return tasks;
     }
 
     public void displayTasks() {
